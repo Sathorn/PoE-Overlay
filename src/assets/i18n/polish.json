@@ -25,20 +25,20 @@
   "evaluate": {
     "count": "Liczba Aukcji",
     "currency": "Wyświetlana waluta",
-    "currency-original": "Orginalna Waluta",
+    "currency-original": "Oryginalna Waluta",
     "days": "ostatnie 7 dni",
     "error": "Wystąpił błąd.",
     "loading": "Ładuję...",
     "mean": "Średnia",
     "median": "Mediana",
-    "mode": "Moda",
+    "mode": "Tryb",
     "name": "Wycena przedmiotu",
     "not-found": "Brak danych.",
     "range": "Zakres",
     "result-view": "Okno wyników",
     "search": {
       "default": "Domyślne ustawienia wyszukiwania",
-      "disable-max-range": "Wyłącz maksymalny zasięg",
+      "disable-max-range": "Wyłącz maksymalny zakres",
       "filter": "Filtr Wyszukiwania",
       "gem": "Poziom gemów, map oraz jakość",
       "item-default-links": "Z połączonymi gniazdami ",
@@ -51,34 +51,34 @@
       "item-type": "Typ przedmiotu",
       "max-age": {
         "any": "Kiedykolwiek",
-        "day": "Do 24 godzin temu",
-        "days": "3 Dni temu",
-        "month": "Miesiąc temu",
-        "months": "2 Miesiące temu",
+        "day": "Ostatni dzień",
+        "days": "Ostatnie 3 dni",
+        "month": "Ostatni miesiąc",
+        "months": "Ostatnie 3 miesiące",
         "title": "Data wystawienia",
-        "week": "Tydzień temu",
-        "weeks": "2 Tygodnie temu"
+        "week": "Ostatni tydzień",
+        "weeks": "Ostatnie 2 tygodnie"
       },
-      "modifier": "Ustawienia wyszukiwania moda",
-      "modifier-range": "Zakres moda",
-      "online-only": "Gracze Online"
+      "modifier": "Ustawienia wyszukiwania modyfikatora",
+      "modifier-range": "Zakres modyfikatora",
+      "online-only": "Tylko Online"
     },
     "settings": "Ustawienia Wyceny Przedmiotu",
     "stats": "Statystyki",
-    "stats-export": "Wyślij statystyki do schowka",
-    "stats-import": "Wczytaj statystyki ze schowka",
-    "stats-unique-check-all": "Unikaty - sprawdź wszystkie",
+    "stats-export": "Eksport statystyk",
+    "stats-import": "Import statystyk",
+    "stats-unique-check-all": "Unikaty - sprawdź wszystkie modyfikatory",
     "switch": "zmień sumę",
     "tag": {
             "note": "Tylko elementy bez istniejącej notatki mogą być szybko oznaczone. Notatka została zamiast tego skopiowana.",
             "outside-stash": "Tylko przedmioty w skrytce można szybko oznaczyć. Notatka została zamiast tego skopiowana."
     },
-    "translate": "Wyceń przetłumaczony przedmiot",
-    "translate-language": "Język przełumaczonego przedmiotu",
-    "translate-settings": "Ustawienia tłumaczenia Wyceny"
+    "translate": "Wyceń przedmiot",
+    "translate-language": "Język wycenianego przedmiotu",
+    "translate-settings": "Ustawienia Wyceny"
   },
   "help": {
-    "browser": "Przytrzymanie klawisza Ctrl i kliknięcie, spowoduje otwarcie odnośnika w domyślnej przeglądarce.",
+    "browser": "Kliknięcie z wciśniętym klawiszem CTRL, spowoduje otwarcie odnośnika w domyślnej przeglądarce.",
     "browser-title": "Jak mogę otworzyć wyszukiwanie w domyślnej przeglądarce?",
     "bug": "Zgłoś błąd / zaproponuj sugestię",
     "bug-title": "Znalazłeś błąd? A może masz sugestię? Proszę zgłoś ją na stronie GitHub projektu.",
@@ -102,13 +102,13 @@
     "boss-rating": "Rating Bossa",
     "bosses": "Bossowie",
     "info": "Informacje",
-    "layout-rating": "Layout Rating",
+    "layout-rating": "Ocena Mapy",
     "name": "Mapy",
     "no-map": "Przedmiot nie jest mapą.",
     "not-found": "Nie znaleziono mapy.",
     "stats-warning": "Statystyki Ostrzeżenia",
     "stats-warning-export": "Wyślij ostrzeżenia statystyk do schowka",
-    "stats-warning-import": "Wczytaj ostrzeżenia statystyczne ze schowka"
+    "stats-warning-import": "Wczytaj ostrzeżenia statystyk ze schowka"
   },
   "material": {
     "accelerator": {
